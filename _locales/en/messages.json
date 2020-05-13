@@ -1,0 +1,16 @@
+{
+  "extName": {
+    "message": "Web Archive",
+    "description": "Extension name"
+  },
+
+  "extDesc": {
+    "message": "Web Archive",
+    "description": "Extension name"
+  },
+
+  "title": {
+    "message": "Web Archive",
+    "description": "Menu item text"
+  }
+}
